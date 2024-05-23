@@ -49,7 +49,7 @@ public class Analizador {
     try {
       analizador.iniciar();
     } catch (TokenInvalidoExcepcion e) {
-      System.err.println("Token aiiiiiiinvalido");
+      System.err.println("Token baiiiiiiinvalido");
     }
   }
 
